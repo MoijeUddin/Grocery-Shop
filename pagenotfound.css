@@ -1,0 +1,106 @@
+.pagenotfound-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pagenotfound-pagenotfound {
+  width: 1515px;
+  height: 939px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(36, 141, 0, 1);
+}
+.pagenotfound-text {
+  top: 179px;
+  left: 565px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 172px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pagenotfound-text02 {
+  top: 412px;
+  left: 493px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 62px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pagenotfound-navlink {
+  display: contents;
+}
+.pagenotfound-rectangle3 {
+  top: 749px;
+  left: 565px;
+  width: 369px;
+  height: 124px;
+  position: absolute;
+  border-radius: 120px;
+  text-decoration: none;
+}
+.pagenotfound-text04 {
+  top: 787px;
+  left: 673px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pagenotfound-text06 {
+  top: 41px;
+  left: 85px;
+  color: rgba(255, 183, 0, 1);
+  width: 384px;
+  height: auto;
+  position: absolute;
+  font-size: 104.46126556396484px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pagenotfound-text11 {
+  top: 576px;
+  left: 304px;
+  color: rgba(255, 183, 0, 1);
+  width: 906px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
